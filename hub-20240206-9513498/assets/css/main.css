@@ -77,6 +77,7 @@
     }
   }
 .article-default a:hover {
-  box-shadow:0;
+    text-decoration: none;
+    box-shadow: none!important;
 }
 
