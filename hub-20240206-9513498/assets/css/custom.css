@@ -25,7 +25,8 @@ h1 {
   text-transform: uppercase;
   color: var(--yellow);
   margin-bottom: 0;
-  margin-top: 10px;
+  margin-top: 0;
+  line-height: 98.55%; /* 45.333px */
 }
 @media (max-width: 550px) {
   h1 {
@@ -80,6 +81,7 @@ a {
   max-width: 450px;
 }
 .centered h2 {
+  z-index: 2;
   font-size: 3rem;
   font-weight: 900;
   letter-spacing: -0.03em;
