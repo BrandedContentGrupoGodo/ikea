@@ -84,3 +84,7 @@ html {
   .article-default a:hover {
     box-shadow: none !important;
   }
+
+  .icon-link:before {
+    content: none !important;
+}
