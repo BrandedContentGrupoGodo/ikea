@@ -76,4 +76,7 @@
       margin-right: 0px!important;
     }
   }
+.article-default a:hover {
+  box-shadow:0;
+}
 
