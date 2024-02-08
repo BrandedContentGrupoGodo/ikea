@@ -79,6 +79,7 @@ a {
   margin-top: 30%;
   padding-left: 100px;
   max-width: 450px;
+  z-index: 3;
 }
 .centered h2 {
   z-index: 2;
