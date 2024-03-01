@@ -80,4 +80,6 @@
     text-decoration: none;
     box-shadow: none!important;
 }
-
+.wallpaper-inverted-ad{
+  display: none!important;
+}
