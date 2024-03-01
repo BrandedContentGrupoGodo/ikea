@@ -88,3 +88,6 @@ html {
   .icon-link:before {
     content: none !important;
 }
+.wallpaper-inverted-ad{
+  display: none!important;
+}
