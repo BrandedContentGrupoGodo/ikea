@@ -273,7 +273,10 @@ a {
   font-size:96px;
   line-height:114px;
 }
-
+.article-default .content-free-html iframe {
+    width: 100%;
+    aspect-ratio: 0;
+}
 
  /*CRÉDITOS*/
  .creditos {
